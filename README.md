@@ -1,4 +1,5 @@
-### Hi there 👋 I am Jingyi, a software developer.
+### Hi there 👋 
+I am Jingyi, a software developer.
 
 I have deep knowledge in front-end and back-end, data structures, algorithms, teamwork, and communication. Love to make everything in an order that makes logical sense.
 
